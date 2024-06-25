@@ -1,19 +1,19 @@
-# 开源Tap4 AI Web UI
+# 开源KiwiGPT Web UI
 
-这是一个由[Tap4 AI工具导航站](https://tap4.ai)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
+这是一个由[KiwiGPT工具导航站](https://tap4.ai)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
 收录自己喜欢的AI工具产品。这个项目非常轻量级，维护简单，适合对AI导航站感兴趣的个人开发者，也适合对NextJs有兴趣的学习者，
 欢迎大家fork和star。
 
 [English](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.md) | 简体中文
 
-## 请在Product Hunt支持下Tap4 AI
+## 请在Product Hunt支持下KiwiGPT
 
 <a href="https://www.producthunt.com/posts/ai-tools-directory-by-tap4-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;tools&#0045;directory&#0045;by&#0045;tap4&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=464357&theme=light" alt="AI&#0032;Tools&#0032;Directory&#0032;by&#0032;Tap4&#0032;AI - Open&#0045;source&#0032;AI&#0032;navigation&#0032;&#0038;&#0032;discovery&#0032;with&#0032;multi&#0045;language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## v2.0.0版本更新说明
 
 - AI站点数据采用supabase数据库存储
-- 对接Tap4 AI爬虫项目，支持提交和收录全自动
+- 对接KiwiGPT爬虫项目，支持提交和收录全自动
 - 支持简易的分类和搜索
 
 注：如果你对数据库不熟悉，或者担心和v1.0.0版本的兼容问题，请点击切
@@ -48,14 +48,14 @@
 
 <a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-如果你对项目有兴趣，欢迎添加我微信: helloleo2023, 备注: "tap4 ai开源"，也可以扫描二维码:
+如果你对项目有兴趣，欢迎添加我微信: helloleo2023, 备注: "KiwiGPT开源"，也可以扫描二维码:
 ![tap4-ai-wx](./public/images/tap4-ai-wechat.jpg)
 
 ## 部署说明
 
-### 部署Tap4 AI Crawler
+### 部署KiwiGPT Crawler
 
-具体见[Tap4 AI Crawler](https://github.com/6677-ai/tap4-ai-crawler) 部署完成后，可以使用平台提供的域名或者自定义域名，作
+具体见[KiwiGPT Crawler](https://github.com/6677-ai/tap4-ai-crawler) 部署完成后，可以使用平台提供的域名或者自定义域名，作
 为生成AI工具网页内容的API接口(示例：https://{crawler_domain}/site/crawl, {crawler_domain}为你的具体域名)，**需要配置到
 env环境变量CRAWLER_API**中
 
@@ -207,7 +207,7 @@ pnpm dev
 ### TAP4-AI-Directory
 
 全球AI工具的集合。| 收集免费的ChatGPT镜像、替代品、prompt、其他AI工具等。欲了解更多信息，请访
-问：[Tap4 AI](https://tap4.ai)
+问：[KiwiGPT](https://tap4.ai)
 
 ### 如何在网站列表中获得您的首批用户
 

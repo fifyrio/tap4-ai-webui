@@ -1445,7 +1445,7 @@ INSERT INTO public.web_navigation (
     name, title, content, detail, url, image_url, thumbnail_url, collection_time, tag_name, website_data, star_rating, category_name
 ) VALUES (
     'tap4-ai',
-    'Tap4 AI Tools Directory',
+    'KiwiGPT Tools Directory',
     'We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.',
     '
 ### What is tap4.ai?
