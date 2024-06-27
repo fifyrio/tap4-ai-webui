@@ -1,6 +1,6 @@
 # Open Source KiwiGPT Web UI
 
-This is an open-source AI Tools Directory project from [KiwiGPT Tool Directory](https://tap4.ai). Our goal is to make it
+This is an open-source AI Tools Directory project from [KiwiGPT Tool Directory](https://kiwigpt.pro). Our goal is to make it
 easy for everyone to have their own AI Tools Directory, to collect their favorite AI tool products. This project is very
 lightweight and easy to maintain, suitable for individual developers interested in AI navigation sites, and also
 suitable for learners interested in NextJs. Everyone is welcome to fork and star.
@@ -80,7 +80,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY writ
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://kiwigpt.pro"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
@@ -145,7 +145,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY writ
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://kiwigpt.pro"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
@@ -214,7 +214,7 @@ website content and insert it into the web_navigation table.
 ### TAP4-AI-Directory
 
 The Collection for the AI tools all over the world. | Collect free ChatGPT mirrors, alternatives,prompt, other AI tools,
-etc. For more, please visit: [KiwiGPT](https://tap4.ai)
+etc. For more, please visit: [KiwiGPT](https://kiwigpt.pro)
 
 ### How to get your first users for startup at the website list
 

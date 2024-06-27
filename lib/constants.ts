@@ -21,10 +21,10 @@ export const RevalidateOneMonth = 3600 * 24 * 30;
 export const PAGE_SIZE = 20;
 export const InfoPageSize = 12;
 
-export const FORM_PLACEHOLDER = 'https://tap4.ai/';
+export const FORM_PLACEHOLDER = 'https://kiwigpt.pro/';
 
 export const WEBSITE_EXAMPLE =
-  '<a href="https://tap4.ai/" title="KiwiGPT Tools Directory">KiwiGPT Tools Diresctory</a>';
+  '<a href="https://kiwigpt.pro/" title="KiwiGPT Tools Directory">KiwiGPT Tools Diresctory</a>';
 
 export const STARTUP_LIST = [
   {
@@ -303,7 +303,7 @@ export const STARTUP_LIST = [
   {
     DA: 38,
     Website: 'KiwiGPT',
-    URL: 'https://tap4.ai/submit',
+    URL: 'https://kiwigpt.pro/submit',
     Price: 'Free',
     Tag: 'AI',
   },

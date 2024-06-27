@@ -1475,7 +1475,7 @@ We highly value user privacy, and your data will not be used for any training pu
 ### When would I need a tap4.ai subscription?
 
 If the 20 free GPT-4o conversations per day do not meet your needs and you heavily rely on GPT-4o, we invite you to subscribe to our affordable products.',
-    'https://tap4.ai/',
+    'https://kiwigpt.pro/',
     'https://img.tap4.ai/tools/2024/6/17/openai-com-1718632263.png',
     'https://img.tap4.ai/tools/2024/6/17/openai-com-thumbnail-1718632268.png',
     '2024-06-17 18:51:17',

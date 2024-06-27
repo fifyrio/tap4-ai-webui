@@ -1,6 +1,6 @@
 # 开源KiwiGPT Web UI
 
-这是一个由[KiwiGPT工具导航站](https://tap4.ai)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
+这是一个由[KiwiGPT工具导航站](https://kiwigpt.pro)开源的AI导航站项目。我们的目标是让大家很容易就拥有一个属于自己的AI导航站，
 收录自己喜欢的AI工具产品。这个项目非常轻量级，维护简单，适合对AI导航站感兴趣的个人开发者，也适合对NextJs有兴趣的学习者，
 欢迎大家fork和star。
 
@@ -74,7 +74,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY，�
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://kiwigpt.pro"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
@@ -136,7 +136,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY，�
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://kiwigpt.pro"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX"
@@ -207,7 +207,7 @@ pnpm dev
 ### TAP4-AI-Directory
 
 全球AI工具的集合。| 收集免费的ChatGPT镜像、替代品、prompt、其他AI工具等。欲了解更多信息，请访
-问：[KiwiGPT](https://tap4.ai)
+问：[KiwiGPT](https://kiwigpt.pro)
 
 ### 如何在网站列表中获得您的首批用户
 
