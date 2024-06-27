@@ -86,7 +86,7 @@ NEXT_PUBLIC_SITE_URL="https://kiwigpt.pro"
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@kiwigpt.pro"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co"
@@ -151,7 +151,7 @@ NEXT_PUBLIC_SITE_URL="https://kiwigpt.pro"
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@kiwigpt.pro"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co" NEXT_PUBLIC_SUPABASE_ANON_KEY="XXX.YYY.ZZZ"
@@ -207,7 +207,7 @@ website content and insert it into the web_navigation table.
 ### Wanna add you website to our `/startup` page?
 
 - open an issue here: [TAP4-AI-Directory](https://github.com/6677-ai/TAP4-AI-Directory/issues)
-- email us: contact@tap4.ai
+- email us: support@kiwigpt.pro
 
 ## Links to our products
 

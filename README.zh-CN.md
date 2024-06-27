@@ -80,7 +80,7 @@ NEXT_PUBLIC_SITE_URL="https://kiwigpt.pro"
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@kiwigpt.pro"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co" NEXT_PUBLIC_SUPABASE_ANON_KEY="XXX.YYY.ZZZ"
@@ -144,7 +144,7 @@ GOOGLE_TRACKING_ID="G-XXXXXXX"
 GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
 
 # Contact email at the bottom
-CONTACT_US_EMAIL="contact@tap4.ai"
+CONTACT_US_EMAIL="support@kiwigpt.pro"
 
 # Supabase database URL and key
 NEXT_PUBLIC_SUPABASE_URL="https://xxxyyyzzz.supabase.co"
@@ -200,7 +200,7 @@ pnpm dev
 ### 打算将您的网站添加到我们的 `/startup` 页面？
 
 - 在这里打开一个问题：[TAP4-AI-Directory](https://github.com/6677-ai/TAP4-AI-Directory/issues)
-- 给我们发邮件：[contact@tap4.ai](mailto:contact@tap4.ai)
+- 给我们发邮件：[support@kiwigpt.pro](mailto:support@kiwigpt.pro)
 
 ## 我们产品的链接
 
